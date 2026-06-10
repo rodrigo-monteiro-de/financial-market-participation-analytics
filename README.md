@@ -1,2 +1,18 @@
-# financial-market-participation-analytics
-A modern Data Engineering project that analyzes financial market participation across countries and demographic groups. The solution demonstrates dimensional modeling, Medallion Architecture, analytical SQL, data transformation workflows, and business-focused reporting.
+# Financial Market Participation Analytics
+
+🚧 Status: In Progress
+
+## Current Progress
+
+- [x] Bronze Layer
+- [x] Silver Layer
+- [ ] Gold Layer
+- [ ] Business Metrics
+- [ ] Dashboard
+- [ ] Documentation
+
+## Next Steps
+
+- Build Gold Layer
+- Create participation metrics
+- Generate business insights
